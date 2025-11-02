@@ -69,7 +69,7 @@ PORT=5000
 
 ### 📸 Screenshots
 
-![App Screenshot](./Mysearch.png)
+![(./Mysearch.png)]
 
 
 ---
