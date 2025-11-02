@@ -41,30 +41,24 @@ Google-QA-App/
 ---
 
 ## ⚙️ Installation & Setup
-
-### 🔹 Step 1: Clone this repository
-```bash
+🔹 Step 1: Clone this repository
     git clone https://github.com/praveen610409/Google-Q-A-app.git
     cd Google-Q-A-app
 
-### 🔹 Step 2: Setup Backend
-```bash
+🔹 Step 2: Setup Backend
     cd backend
     npm install
     node server.js
 
-    Server will run on http://localhost:5000
 
+📡 Server will run on http://localhost:5000
 
-### 🔹 Step 3: Setup Frontend
-```bash
+🔹 Step 3: Setup Frontend
     cd ../frontend
     npm install
     npm start
 
-
-    React app will start on http://localhost:3000
-
+    💻 React app will start on http://localhost:3000
 
 ### 🧠 Environment Variables (.env)
 
