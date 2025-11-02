@@ -1,0 +1,13 @@
+# Ignore node modules
+node_modules/
+
+# Ignore env file
+.env
+
+# Logs
+npm-debug.log
+.DS_Store
+
+# Build outputs
+frontend/build/
+backend/dist/
