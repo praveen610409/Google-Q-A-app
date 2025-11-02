@@ -69,7 +69,6 @@ PORT=5000
 
 ### 📸 Screenshots
 
-![Gooogle-Q-A-app](./Mysearch.png)
 
 
 ---
