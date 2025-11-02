@@ -67,10 +67,12 @@ MONGO_URI=your_mongodb_connection_string
 PORT=5000
 
 
-### 📸 Screenshots (Optional)
+### 📸 Screenshots
+
+![App Screenshot](./My%Search.png)
 
 
-
+---
 
 ### 👨‍💻 Author
     Praveen Singh
