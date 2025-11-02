@@ -1,4 +1,4 @@
-# 🌐 Google Q&A App
+z# 🌐 Google Q&A App
 
 A simple full-stack Question & Answer web app built using **React**, **Node.js**, **Express**, and **MongoDB**.
 
@@ -69,7 +69,7 @@ PORT=5000
 
 ### 📸 Screenshots
 
-![(./Mysearch.png)]
+![Gooogle-Q-A-app](./Mysearch.png)
 
 
 ---
