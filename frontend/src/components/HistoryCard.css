@@ -1,0 +1,45 @@
+/* 🌈 HistoryCard custom styling */
+
+.history-card {
+    background-color: #f9f9ff;         /* 👈 यहाँ अपना पसंदीदा रंग दो */
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 15px 20px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+}
+
+.history-card:hover {
+    transform: translateY(-3px);
+    background-color: #eef1ff;          /* hover पर हल्का नीला */
+}
+
+.history-card h4 {
+    color: #3f51b5;
+    margin-bottom: 10px;
+}
+
+.history-card p {
+    color: #333;
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+/* 🕓 Date-Time का रंग लाल कर दिया */
+.history-card .date-time {
+    color: red;                /* ✅ यही तुम्हारा main change है */
+    font-size: 0.9rem;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.history-card a {
+    color: #303f9f;
+    text-decoration: none;
+}
+
+.history-card a:hover {
+    text-decoration: underline;
+}

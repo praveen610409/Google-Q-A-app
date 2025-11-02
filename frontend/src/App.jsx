@@ -29,13 +29,15 @@ export default function App() {
   return (
     <div className="app">
       <h1>🔍 Google Q&A App</h1>
-      <input
-        type="text"
-        value={question}
-        onChange={(e) => setQuestion(e.target.value)}
-        placeholder="Ask something..."
-      />
-      <button onClick={askQuestion}>Ask</button>
+      <div className="input-area">
+  <input
+    type="text"
+    value={question}
+    onChange={(e) => setQuestion(e.target.value)}
+    placeholder="Ask something..."
+  />
+  <button onClick={askQuestion}>Ask</button>
+</div>
 
       <h3>Answer:</h3>
       <p>{answer}</p>
