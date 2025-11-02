@@ -44,27 +44,29 @@ Google-QA-App/
 
 ### 🔹 Step 1: Clone this repository
 ```bash
-git clone https://github.com/praveen610409/Google-Q-A-app.git
-cd Google-Q-A-app
+    git clone https://github.com/praveen610409/Google-Q-A-app.git
+    cd Google-Q-A-app
 
-🔹 Step 2: Setup Backend
+### 🔹 Step 2: Setup Backend
+```bash
+    cd backend
+    npm install
+    node server.js
 
-cd backend
-npm install
-node server.js
-
-Server will run on http://localhost:5000
-
-🔹 Step 3: Setup Frontend
-cd ../frontend
-npm install
-npm start
+    Server will run on http://localhost:5000
 
 
-React app will start on http://localhost:3000
+### 🔹 Step 3: Setup Frontend
+```bash
+    cd ../frontend
+    npm install
+    npm start
 
 
-🧠 Environment Variables (.env)
+    React app will start on http://localhost:3000
+
+
+### 🧠 Environment Variables (.env)
 
 Create a .env file inside the backend/ folder and add:
 
@@ -72,10 +74,10 @@ MONGO_URI=your_mongodb_connection_string
 PORT=5000
 
 
-📸 Screenshots (Optional)
+### 📸 Screenshots (Optional)
 
 
 
 
-👨‍💻 Author
+### 👨‍💻 Author
     Praveen Singh
