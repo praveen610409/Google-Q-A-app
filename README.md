@@ -70,11 +70,11 @@ MONGO_URI=your_mongodb_connection_string
 PORT=5000
 
 
-### 📸 Screenshots### 📸 Screenshots
+### 📸 Screenshots
 
 Here’s how the app looks 👇  
 
-![App Screenshot](./(My Search.png)
+![App Screenshot](https://raw.githubusercontent.com/praveen610409/Google-Q-A-app/main/My%20Search.png)
 
 ---
 
